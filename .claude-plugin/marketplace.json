@@ -1,0 +1,29 @@
+{
+  "name": "formularios-marcas-patentes-y-propiedad-intelectual",
+  "owner": {
+    "name": "Derecho Virtual",
+    "url": "https://jurisprudenciator.lexiaipro.org"
+  },
+  "metadata": {
+    "description": "Marcas, patentes y propiedad intelectual · España (53 formularios). Para proteger y explotar intangibles: licencias y cesiones de marca, patente, modelo de utilidad y diseño, know-how y secretos empresariales, contratos de edición, producción audiovisual y musical, cesión de derechos de autor y obras por encargo, y acciones por infracción. Requiere Jurisprudenciator conectado: sin él las skills no redactan ni verifican nada.",
+    "version": "1.1.0"
+  },
+  "plugins": [
+    {
+      "name": "formularios-marcas-patentes-y-propiedad-intelectual",
+      "source": "./",
+      "description": "Marcas, patentes y propiedad intelectual · España (53 formularios). Para proteger y explotar intangibles: licencias y cesiones de marca, patente, modelo de utilidad y diseño, know-how y secretos empresariales, contratos de edición, producción audiovisual y musical, cesión de derechos de autor y obras por encargo, y acciones por infracción. Requiere Jurisprudenciator conectado: sin él las skills no redactan ni verifican nada.",
+      "version": "1.1.0",
+      "category": "legal",
+      "keywords": [
+        "jurisprudenciator",
+        "legal",
+        "españa",
+        "formularios",
+        "modelos",
+        "mercantil",
+        "propiedad-industrial"
+      ]
+    }
+  ]
+}
